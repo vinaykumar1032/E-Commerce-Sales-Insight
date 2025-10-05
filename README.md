@@ -30,8 +30,11 @@ Excel / CSV dataset as data source
 
 📈 Insights
 
+
 Identified top-performing product categories contributing the most to revenue.
 
 Highlighted underperforming regions for targeted marketing.
 
 Revealed seasonal patterns in sales and customer purchases.
+
+<img width="1786" height="992" alt="Sales Insight" src="https://github.com/user-attachments/assets/5f9fa6a9-4587-4463-84cb-511b5237f098" />
