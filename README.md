@@ -1,4 +1,4 @@
-📊 Vinay-Ecommerce Sales Insight
+📊 Ecommerce Sales Insight
 
 An interactive Power BI dashboard providing data-driven insights into e-commerce sales performance.
 
